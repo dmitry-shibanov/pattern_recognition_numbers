@@ -1,0 +1,5 @@
+http://pjreddie.com/media/files/mnist_train.csv
+http://pjreddie.com/media/files/mnist_test.csv
+
+
+pip3 install matplotlib numpy imageio pandas scipy
